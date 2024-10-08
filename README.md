@@ -35,3 +35,8 @@ The TMDB dataset consists of **5,000 rows** and **20 columns**, including:
 
 ## Acknowledgments
 - TMDB 5000 Movie Dataset from Kaggle.
+
+## Deployment
+The content-based movie recommendation system has been deployed using Streamlit, allowing users to interactively receive movie suggestions. The application fetches movie details and posters from The Movie Database (TMDb) API based on user-selected titles. Users can input a movie title, and the system will display a list of recommended movies along with their posters, enhancing the user experience in exploring new films.
+
+![Screenshot 2024-10-08 192926](https://github.com/user-attachments/assets/cd7ec9cb-d4e0-4754-af7d-f8dd18994ba8)
