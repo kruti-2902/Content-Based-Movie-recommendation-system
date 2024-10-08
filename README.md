@@ -26,7 +26,7 @@ The TMDB dataset consists of **5,000 rows** and **20 columns**, including:
 4. **Vectorization:** Use the Bag of Words technique to convert text data into numerical vectors.
 5. **Cosine Similarity Calculation:** Compute cosine distances between vectors to measure similarity between movies.
 6. **Recommendation Generation:** Display a list of movies with the least distance, indicating high similarity to the selected movie
-7. 
+
 ## Technologies Used
 - **Python**
 - **Pandas**
